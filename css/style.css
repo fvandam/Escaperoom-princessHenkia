@@ -1,0 +1,44 @@
+body{
+    margin: 0%;
+    overflow: hidden;
+}
+#kasteelkamer{
+    background-image: url(../img/room1);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#henkia{
+    height: 300px;
+    width: 270px;
+    float: left;
+    background-image: url(../img/henk.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 320px;
+    
+}
+
+.padlock{
+    height: 100px;
+    width: 70px;
+    padding-left: 350px;
+    padding-top: 450px;
+}
+
+.castlekey{
+    height: 100px;
+    width: 50px;
+    padding-left: 300px;
+    padding-bottom: 160px;
+}
+
+#escape{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(227, 182, 0);
+    visibility: hidden;
+    border-radius: 10px;
+}

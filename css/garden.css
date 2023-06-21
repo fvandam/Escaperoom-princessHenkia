@@ -1,0 +1,68 @@
+#room3{
+    background-image: url(../img/garden.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100vh;
+}
+
+body{
+    margin: 0%;
+    overflow: hidden;
+}
+
+#lock{
+    background-image: url(../img/padlock.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100px;
+    height: 140px;
+    margin-top: 350px;
+    margin-left: 400px;
+}
+
+
+#escape{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(227, 182, 0);
+    visibility: hidden;
+    border-radius: 10px;
+    margin-right: 100px;
+    
+}
+
+.number1{
+    float: left;
+    color: rgb(53, 53, 53);
+    margin-top: 100px;
+}
+ .number2{
+    float: right;
+    color: rgb(59, 59, 59);
+    margin-right: 50px;
+    margin-top: 500px;
+ }
+
+.number3{
+    float: left;
+    color: rgb(57, 57, 57);
+    margin-top: 500px;
+}
+
+.number4{
+    float: right;
+    color: rgb(48, 47, 47);
+    margin-bottom: 250px;
+    
+}
+
+#henkia{
+    height: 300px;
+    width: 270px;
+    float: left;
+    background-image: url(../img/henk.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: 320px;
+}
